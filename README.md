@@ -1,4 +1,4 @@
-# musicAnalysis
+# Music Entropy Analysis
 
 Data extraction pipeline to generate entropy/complexity metrics of audio data. Comparative visualization notebook and excel spreadsheet included. 
 
