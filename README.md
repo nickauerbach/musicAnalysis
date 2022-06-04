@@ -1,4 +1,4 @@
-# Music Entropy Analysis
+# Music Analysis
 
 Data pipeline to feature engineer entropy/complexity metrics of audio data. Comparative visualization notebook and excel spreadsheet included. 
 
