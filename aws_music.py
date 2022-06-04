@@ -15,8 +15,8 @@ import EntropyHub as eh
 from sklearn.preprocessing import MinMaxScaler
 import pickle
 
-ACCESS_KEY = 'AKIA3MO27G46QCTSLV5C'
-SECRET_KEY = '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'
+ACCESS_KEY = 'key'
+SECRET_KEY = 'key'
 REGION = 'us-east-1'
 BUCKET_NAME = 'music-analysis-database'
 library = pd.DataFrame(columns=["Song ID", "Sampling Rate", "Samples", "Raw Frequencies"])
