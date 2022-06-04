@@ -1,0 +1,9 @@
+boto3
+pandas
+numpy
+soundfile
+librosa
+scipy
+sklearn
+EntropyHub
+pickle
